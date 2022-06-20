@@ -1,0 +1,14 @@
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\LIUS\source\repos\test\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Users\LIUS\source\repos\test\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
